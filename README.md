@@ -1,1 +1,2 @@
-# Logika Repozitoriy test 
+# FASTAPI
+## Simple FASTAPI app about user organization
